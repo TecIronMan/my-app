@@ -11,6 +11,7 @@ function App() {
         
         <option>HP</option>
         <option>OJ</option>
+          <option>Komal</option>
       </select>
     </nav>
     <div className="hrishi"><h1>Hi I'm Hrishi</h1></div>
